@@ -1,7 +1,7 @@
 # TubeKids
 TubeKids, it's an android application for children between 03 to 06 years old, we develop it because the need of children's control, we made it very special with control parental.
 
-For consult the project: click on the main tree -> choose the "master" branch OR click here -> https://github.com/SBenhadja/TubeKids/tree/master
+To consult the project: click on the main tree -> choose the "master" branch OR click here -> https://github.com/SBenhadja/TubeKids/tree/master
 
 ![Screenshot_20200216-235133_Samsung Experience Home](https://user-images.githubusercontent.com/13586746/150693039-47db2341-b5d6-40e8-97d7-4688ae5fabed.jpg)
 ![Screenshot_20200216-224750_ ](https://user-images.githubusercontent.com/13586746/150693057-897b740f-7f97-4bb9-9d08-32fb11ff88da.jpg)
